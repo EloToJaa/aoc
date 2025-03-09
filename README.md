@@ -1,3 +1,3 @@
-# Advent of Code 2024
+# Advent of Code
 
-The solution to the Advent of Code 2024 puzzles.
+The solutions to the Advent of Code puzzles.
